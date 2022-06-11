@@ -1,6 +1,3 @@
-from pydoc import locate
-from tkinter.messagebox import NO
-from urllib import response
 from django.http import HttpResponse
 from django.views.decorators.csrf import csrf_exempt
 import datetime
